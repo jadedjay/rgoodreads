@@ -10,8 +10,8 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 
-# key: gYWXsF4VUU2YcXkKryosbA
-# secret: hhz8Wnw8byEQartBjrSk6m1wsM2Dzht8igmiIP4sA
+# key: rbbska04ZyyU6cVKxX94Zw
+# secret: p1iRHkz71ACjDquf4sigBFAdpxZb1Mt44KHKFyHJM
 
 # goodreads_GET('book/show',id=1)
 # goodreads_GET('book/isbn',isbn='0618640150')
